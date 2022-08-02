@@ -404,6 +404,7 @@ body {
 .require .text1 {
     width: 200px;
     font-size: 14px;
+    margin-top: 10px;
 }
 
 .require .text1_1 {
@@ -411,7 +412,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     width: 180px;
-    margin-top: -10px;
+    margin-top: 20px;
 }
 
 .require .text2 {
@@ -574,7 +575,7 @@ body {
 
 .button2 .arrow1 img {
     position: relative;
-    left: -120px;
+    left: -100px;
     top: 85px;
     margin-top: 30px;
     height: 10px;
@@ -583,7 +584,7 @@ body {
 
 .button2 .arrow2 img {
     position: relative;
-    left: 70px;
+    left: 50px;
     top: 70px;
     height: 10px;
     width: 10px;
@@ -592,7 +593,7 @@ body {
 .button2 .text2 p {
     position: relative;
     top: 142px;
-    left: -60px;
+    left: -65px;
     height: 30px;
     width: 100px;
     font-size: 15px;
